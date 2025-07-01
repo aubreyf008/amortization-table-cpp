@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💸 Amortization Table Generator in C++
 
 A command-line tool written in C++ that calculates and prints an amortization table based on user input: loan amount, interest rate, and monthly payment. Built as an introductory programming project at Auburn University.
@@ -27,3 +28,18 @@ g++ -o amortization project1_Foote_caf0074.cpp
 ./amortization
 
 
+=======
+# 💸 Amortization Table Generator in C++
+
+A command-line tool written in C++ that calculates and prints an amortization table based on user input: loan amount, interest rate, and monthly payment. Built as an introductory programming project at Auburn University.
+
+## 📌 Features
+
+- User input validation (no negative or zero values)
+- Converts annual interest rate into monthly rate
+- Dynamically calculates interest and principal payments
+- Stops when the loan is fully paid or payment is too small
+- Prints formatted amortization table to the terminal
+
+
+>>>>>>> c64d856d8c13ff210d81b9c812ff98a3bc0f9342
